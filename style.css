@@ -35,16 +35,16 @@ img{
     display: block;
 }
 
-div p{
-    display: flex;
+div h2{
+    display: inline-block;
     flex-direction: row;
     color: rgb(255, 255, 255);
     width: 100%;
-    margin: 5% 0% 5% 5%;
+    margin: 5% 0 5% 0;
     transition: 0.5s;
     font-size: 24px;
     text-align: center;
-
+    
     
 }
 
