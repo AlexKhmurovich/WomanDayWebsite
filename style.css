@@ -48,6 +48,10 @@ div p{
     
 }
 
+section{
+    width: 100%;
+}
+
 h2{
     display: flex;
     flex-direction: row;
