@@ -80,7 +80,7 @@ h3{
 
 
 
-@media(max-width:550px){
+@media(max-width:520px){
     h1{
         font-size: 200%;
     }
@@ -92,9 +92,9 @@ h3{
         display: inline-block;
     }
 }
-@media(min-width:550px){
+@media(min-width:520px){
     h1{
-        font-size: 300%;
+        font-size: 250%;
     }
 
 
@@ -102,7 +102,12 @@ h3{
 @media(min-width:800px){ 
     h1{
         font-size: 350%;
+        padding: 1%;
     }
+
+
+
+
 }
 
 
