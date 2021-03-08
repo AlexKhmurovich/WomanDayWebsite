@@ -100,9 +100,8 @@ h3{
 
 }
 @media(min-width:800px){ 
-    img{
-        height: 100em;
-        width: 70em;
+    h1{
+        font-size: 350%;
     }
 }
 
