@@ -52,32 +52,12 @@ h2:hover{
 }
 
 
-h3{
-    display: inline-block;
-    color: rgb(255, 255, 255);
-    width: 100%;
-    margin: 2% 0 1% 0;
-    font-size: 20px;
-    text-align: center;
-    transition: 1s;
-}
-
-h3::selection{
-    background-color:rgba(255, 126, 158, 0.6) ;
-}
-
-h3:hover{
-    color: rgb(255, 173, 192);
-}
 
 
 
 @media(max-width:520px){
     h1{
         font-size: 200%;
-    }
-    h3{
-        margin-bottom: 0.5%;
     }
 }
 
@@ -95,8 +75,8 @@ h3:hover{
     }
 
     .carousel {
-        width: 45%;
-        height: 26%;
+        width: 50%;
+        height: 30%;
         margin: 0 auto;
         border: 3px solid rgb(255, 142, 164);
     }
@@ -106,9 +86,6 @@ h3:hover{
           font-size: 1.3em;
     }
       
-      h3{
-          margin: 0% 0 1% 0;
-    }
 }
 
 
